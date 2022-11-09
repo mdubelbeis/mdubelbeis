@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mdubelbeis
-- 👀 I’m interested in Front-end Web Development.
-- 🌱 I’m currently learning Redux and Typescript
+- 👋 Hi, I’m Mason Dubelbeis.
+- 👀 My main focus is Web Development but love all forms of programming.
+- 🌱 I’m currently learning Redux and Typescript.
 - 📫 How to reach me:
     - mason.dubelbeis@gmail.com
-
-*** VISIT MY PORTFOLIO: https://www.masondubelbeis.com ***
+- 💰 Hire me:
+    - https://www.masondubelbeis.com
 
 <!---
 mdubelbeis/mdubelbeis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
