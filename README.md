@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Mason Dubelbeis.
-- 👀 My main focus is Web Development but love all forms of programming.
-- 🌱 I’m currently learning Redux and Typescript.
+- 👀 My main focus is Web Development but I'm not scared to dabble!
+- 🌱 I’m currently learning Django and Backend Technologies.
 - 📫 How to reach me:
     - mason.dubelbeis@gmail.com
-- 💰 Hire me:
+
+C:
     - https://www.masondubelbeis.com
 
 <!---
