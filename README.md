@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Mason Dubelbeis.
-- 👀 My main focus is Web Development but I'm not scared to dabble!
-- 🌱 I’m currently learning Django and Backend Technologies.
+- 👀 My focus is Web Development but I'm not scared to dabble!
+- 🌱 I’m currently learning Backend Technologies.
 - 📫 How to reach me:
     - mason.dubelbeis@gmail.com
 
-C:
+Portfolio:
     - https://www.masondubelbeis.com
 
 <!---
