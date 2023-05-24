@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mason Dubelbeis.                          
-- 👀 My focus is Web Development but I'm not scared to dabble!
-- 🌱 I’m currently learning Backend Technologies.
+- 👋 Hi, I’m Mason J. Dubelbeis.                          
+- 👀 My primary focus is Web Development but love all fields of development!
+- 🌱 I’m currently in search for a new role...
 - 📫 How to reach me:
     - mason.dubelbeis@gmail.com
 
