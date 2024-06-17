@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mason J. Dubelbeis.                          
-- 👀 My primary focus is Web Development but love all fields of development!
-- 🌱 I’m currently in search for a new role...
+- 👋 Hey, I’m Mason J. Dubelbeis.                          
+- 👀 My primary focus is Web Development but love all fields of software engineering!
+
 - 📫 How to reach me:
     - mason.dubelbeis@gmail.com
 
