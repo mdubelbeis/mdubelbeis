@@ -1,15 +1,80 @@
-- 👋 Hey, I’m Mason J. Dubelbeis.                          
-- 👀 My primary focus is Web Development but love all fields of software engineering!
+# Mason J. Dubelbeis
 
-- 📫 How to reach me:
-    - mason.dubelbeis@gmail.com
+Software Engineer focused on building **scalable backend systems and clean web applications**.
 
-<a href="https://app.daily.dev/mdubelbeis"><img src="https://api.daily.dev/devcards/7f49bc568e054677abaa212e785d495b.png?r=r5k" width="400" alt="Mason J. Dubelbeis's Dev Card"/></a>
+I specialize in **Java, Spring Boot, REST APIs, and modern web technologies**, with experience designing full-stack applications, database-backed services, and cloud-ready deployments.
 
-Portfolio:
-    - https://www.masondubelbeis.com
+Former **U.S. Navy Air Traffic Control Tower Chief**, bringing leadership, problem solving, and operational discipline into software engineering.
 
-<!---
-mdubelbeis/mdubelbeis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Tech Stack
+
+**Languages**
+
+Java • TypeScript • JavaScript • Python • SQL
+
+**Backend**
+
+Spring Boot • REST APIs • Hibernate / JPA • Node.js
+
+**Frontend**
+
+Angular • React • HTML • CSS
+
+**Database**
+
+PostgreSQL • MySQL • H2
+
+**DevOps & Tools**
+
+Docker • Git • Linux • AWS • CI/CD
+
+---
+
+## Current Focus
+
+- Building **production-style backend APIs with Spring Boot**
+- Practicing **Data Structures & Algorithms in Java**
+- Developing **portfolio projects demonstrating clean architecture and testing**
+
+---
+
+<!--## Featured Projects
+
+### Portfolio Website
+Personal portfolio showcasing projects and technical background.
+
+https://www.masondubelbeis.com
+
+---
+
+### Spring Boot API Projects
+Backend services built with:
+
+- RESTful architecture
+- database persistence
+- unit and integration testing
+- Dockerized environments
+
+(Projects pinned below)
+
+---
+-->
+
+## Connect With Me
+
+Email: mason.dubelbeis@gmail.com
+
+Portfolio:  
+https://www.masondubelbeis.com
+
+---
+
+<a href="https://app.daily.dev/mdubelbeis">
+<img src="https://api.daily.dev/devcards/7f49bc568e054677abaa212e785d495b.png?r=r5k" width="400" alt="Mason J. Dubelbeis Dev Card"/>
+</a>
+
+---
+
+*"Build things that work. Then build them better."*
