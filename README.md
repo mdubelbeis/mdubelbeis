@@ -20,7 +20,7 @@ Spring Boot • REST APIs • Hibernate / JPA • Node.js
 
 **Frontend**
 
-React • Angular • HTML • CSS
+React • Angular • HTML • Tailwind CSS/CSS/SASS
 
 **Database**
 
