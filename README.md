@@ -12,7 +12,7 @@ Former **U.S. Navy Air Traffic Control Tower Chief**, bringing leadership, probl
 
 **Languages**
 
-Java • TypeScript • JavaScript • Python • SQL
+Java • TypeScript • Python • SQL
 
 **Backend**
 
@@ -20,7 +20,7 @@ Spring Boot • REST APIs • Hibernate / JPA • Node.js
 
 **Frontend**
 
-Angular • React • HTML • CSS
+React • Angular • HTML • CSS
 
 **Database**
 
