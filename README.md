@@ -2,7 +2,7 @@
 
 Software Engineer focused on building **scalable backend systems and clean web applications**.
 
-I specialize in **Java, Spring Boot, REST APIs, and modern web technologies**, with experience designing full-stack applications, database-backed services, and cloud-ready deployments.
+I specialize in **React, Java, Spring Boot, REST APIs, and modern web technologies**, with experience designing full-stack applications, database-backed services, and cloud-ready deployments.
 
 Former **U.S. Navy Air Traffic Control Tower Chief**, bringing leadership, problem solving, and operational discipline into software engineering.
 
@@ -20,7 +20,7 @@ Spring Boot • REST APIs • Hibernate / JPA • Node.js
 
 **Frontend**
 
-React • Angular • HTML • Tailwind CSS/CSS/SASS
+React • HTML • Tailwind CSS/CSS/SASS
 
 **Database**
 
