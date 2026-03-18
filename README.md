@@ -1,80 +1,80 @@
-# Mason J. Dubelbeis
+# 👋 Mason Dubelbeis
 
-Software Engineer focused on building **scalable backend systems and clean web applications**.
-
-I specialize in **React, Java, Spring Boot, REST APIs, and modern web technologies**, with experience designing full-stack applications, database-backed services, and cloud-ready deployments.
-
-Former **U.S. Navy Air Traffic Control Tower Chief**, bringing leadership, problem solving, and operational discipline into software engineering.
+Full-stack developer focused on building production-style applications with clean architecture, secure APIs, and scalable frontend systems.
 
 ---
 
-## Tech Stack
+## 🚀 What I’m Focused On
 
-**Languages**
-
-Java • TypeScript • Python • SQL
-
-**Backend**
-
-Spring Boot • REST APIs • Hibernate / JPA • Node.js
-
-**Frontend**
-
-React • HTML • Tailwind CSS/CSS/SASS
-
-**Database**
-
-PostgreSQL • MySQL • H2
-
-**DevOps & Tools**
-
-Docker • Git • Linux • AWS • CI/CD
+- Building real-world applications (not tutorial projects)
+- Designing secure backend systems (Spring Boot + JWT)
+- Creating scalable frontend architectures (React + React Query)
+- Delivering clean, maintainable, production-ready code
 
 ---
 
-## Current Focus
+## 🧠 Current Project
 
-- Building **production-style backend APIs with Spring Boot**
-- Practicing **Data Structures & Algorithms in Java**
-- Developing **portfolio projects demonstrating clean architecture and testing**
+### 🔥 ClientHub (Full-Stack CRM)
 
----
+A production-style CRM system with:
 
-<!--## Featured Projects
+- 🔐 JWT Authentication
+- 👤 Client Management
+- 📋 Activity Tracking (Relational Data)
+- ⚡ React Query for server state
+- 🧱 Clean architecture (FE + BE separation)
 
-### Portfolio Website
-Personal portfolio showcasing projects and technical background.
-
-https://www.masondubelbeis.com
-
----
-
-### Spring Boot API Projects
-Backend services built with:
-
-- RESTful architecture
-- database persistence
-- unit and integration testing
-- Dockerized environments
-
-(Projects pinned below)
-
----
--->
-
-## Connect With Me
-
-Email: mason.dubelbeis@gmail.com
-
-Portfolio:  
-https://www.masondubelbeis.com
+👉 This project focuses on **real-world patterns**, not just CRUD.
 
 ---
 
-<a href="https://app.daily.dev/mdubelbeis">
-<img src="https://api.daily.dev/devcards/7f49bc568e054677abaa212e785d495b.png?r=r5k" width="400" alt="Mason J. Dubelbeis Dev Card"/>
-</a>
+## 🧰 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- PostgreSQL
+
+### Frontend
+- React (Vite)
+- TypeScript
+- React Query
+- React Router
+- Axios
 
 ---
 
-*"Build things that work. Then build them better."*
+## 📌 What I Bring
+
+- Strong understanding of **API design & data flow**
+- Experience building **secure, authenticated systems**
+- Ability to structure **scalable frontend applications**
+- Focus on **clean architecture and real-world patterns**
+
+---
+
+## 🚧 Currently Working On
+
+- Improving ClientHub UI/UX
+- Adding advanced features (editing, filtering, etc.)
+- Writing tests (integration + frontend)
+- Preparing for production deployment
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://www.masondubelbeis.com
+- 📧 Email: mason.dubelbeis@gmail.com
+- 💼 GitHub: https://github.com/mdubelbeis
+
+---
+
+## 🧠 Final Note
+
+I focus on building projects that reflect how real systems are designed and maintained — not just completing tutorials.
+
+If you're looking for someone who understands both frontend and backend architecture, I'm actively working toward that level every day.
