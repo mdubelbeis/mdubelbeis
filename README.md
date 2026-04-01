@@ -1,80 +1,78 @@
 # 👋 Mason Dubelbeis
 
-Full-stack developer focused on building production-style applications with clean architecture, secure APIs, and scalable frontend systems.
+Software engineer building full-stack applications with Java, Spring Boot, React, TypeScript, SQL, and Docker.
+
+I focus on creating production-style software with clean architecture, secure APIs, scalable frontend systems, and maintainable code.
 
 ---
 
-## 🚀 What I’m Focused On
+## 🚀 Current Stack
 
-- Building real-world applications (not tutorial projects)
-- Designing secure backend systems (Spring Boot + JWT)
-- Creating scalable frontend architectures (React + React Query)
-- Delivering clean, maintainable, production-ready code
-
----
-
-## 🧠 Current Project
-
-### 🔥 ClientHub (Full-Stack CRM)
-
-A production-style CRM system with:
-
-- 🔐 JWT Authentication
-- 👤 Client Management
-- 📋 Activity Tracking (Relational Data)
-- ⚡ React Query for server state
-- 🧱 Clean architecture (FE + BE separation)
-
-👉 This project focuses on **real-world patterns**, not just CRUD.
+**Backend:** Java, Spring Boot, Spring Security, JPA / Hibernate, PostgreSQL, MySQL  
+**Frontend:** React, TypeScript, React Query, React Router, Axios, Tailwind CSS  
+**Tools:** Docker, Git, GitHub, Postman, JUnit, Mockito, Testcontainers
 
 ---
 
-## 🧰 Tech Stack
+## 📌 Featured Projects
 
-### Backend
-- Java
-- Spring Boot
-- Spring Security
-- JPA / Hibernate
-- PostgreSQL
+### ClientHub — Full-Stack CRM
+Production-style CRM application built with Java, Spring Boot, React, TypeScript, PostgreSQL, and Docker.
 
-### Frontend
-- React (Vite)
-- TypeScript
-- React Query
-- React Router
-- Axios
+- JWT authentication and authorization
+- Client management and activity tracking
+- React Query for server-state management
+- Clean frontend/backend separation
+- Real-world architecture patterns beyond basic CRUD
+
+### Order Management API
+Spring Boot backend project focused on clean API design, layered architecture, validation, and SQL-backed persistence.
+
+- CRUD workflows with service-layer business logic
+- Relational data modeling
+- Exception handling and maintainable package structure
+- Production-style backend development practices
+
+### Vacation Booking API
+Backend services for a travel booking application managing customers, carts, vacations, excursions, and checkout workflows.
+
+- Relational entity modeling
+- Transactional purchase processing
+- MySQL-backed persistence
+- Full-stack academic project with independent backend implementation
+
+### Portfolio Website
+Personal portfolio built with React, TypeScript, and Tailwind CSS to showcase my projects, technical skills, and professional background.
+
+- Responsive single-page design
+- Component-based architecture
+- Clean recruiter-facing presentation
+- Built to align portfolio, resume, and GitHub presence
 
 ---
 
-## 📌 What I Bring
+## 🧠 What I Bring
 
-- Strong understanding of **API design & data flow**
-- Experience building **secure, authenticated systems**
-- Ability to structure **scalable frontend applications**
-- Focus on **clean architecture and real-world patterns**
+- Strong foundation in backend API design and relational data modeling
+- Experience building secure, authenticated applications
+- Ability to work across frontend and backend layers
+- Focus on clean architecture, maintainability, and real-world engineering practices
+- Background in leadership, operations, and technical problem-solving
 
 ---
 
-## 🚧 Currently Working On
+## 🔧 Current Focus
 
-- Improving ClientHub UI/UX
-- Adding advanced features (editing, filtering, etc.)
-- Writing tests (integration + frontend)
-- Preparing for production deployment
+- Building stronger full-stack portfolio projects
+- Deepening Spring Boot and React expertise
+- Strengthening testing and production-readiness practices
+- Positioning for frontend, backend, and full-stack software engineering roles
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://www.masondubelbeis.com
+- 🌐 Portfolio: [masondubelbeis.com](http://www.masondubelbeis.com)
+- 💼 LinkedIn: [linkedin.com/in/mason-dub](https://www.linkedin.com/in/mason-dub/)
+- 🐙 GitHub: [github.com/mdubelbeis](https://github.com/mdubelbeis)
 - 📧 Email: mason.dubelbeis@gmail.com
-- 💼 GitHub: https://github.com/mdubelbeis
-
----
-
-## 🧠 Final Note
-
-I focus on building projects that reflect how real systems are designed and maintained — not just completing tutorials.
-
-If you're looking for someone who understands both frontend and backend architecture, I'm actively working toward that level every day.
