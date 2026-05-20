@@ -19,7 +19,7 @@ I enjoy working across the stack — APIs, databases, frontend interfaces, authe
 ## 📌 Featured Projects
 
 ### ClientHub
-(live demo)[https://clienthub-frontend-sigma.vercel.app/login]
+Live Demo: [live demo](https://clienthub-frontend-sigma.vercel.app/login)
 
 Full-stack CRM application for managing clients, activities, authentication, and user-owned data.
 
@@ -43,13 +43,6 @@ Backend services for a travel booking application with customers, carts, vacatio
 - Designed relational entities and checkout workflows
 - Implemented transactional service logic and database-backed persistence
 - Built as part of a full-stack application architecture
-
-### Portfolio Website
-(visit)[http://www.masondubelbeis.com]
-Personal portfolio site showcasing projects, background, technical skills, and contact information.
-
-- Built with React, TypeScript, and Tailwind CSS
-- Designed to clearly present my work to recruiters, hiring managers, and technical reviewers
 
 ---
 
