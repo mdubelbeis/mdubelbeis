@@ -11,9 +11,9 @@ I enjoy turning ideas into working software — from frontend interfaces and bac
 **Languages:** JavaScript, TypeScript, Java, SQL, Python  
 **Frontend:** React, Vite, Tailwind CSS, React Router, React Query, Axios  
 **Backend & APIs:** Node.js, Express, Spring Boot, REST APIs, Authentication, Validation, Middleware, Service-Layer Architecture  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Testing:** Vitest, React Testing Library, Supertest, JUnit, Mockito  
-**Tools:** Docker, Git, GitHub, Postman, Linux, npm  
+**Databases:** MongoDB, PostgreSQL
+**Testing:** Vitest, React Testing Library, JUnit, Mockito  
+**Tools:** Docker, Git, GitHub, Postman, Linux, npm, pnpm 
 
 ---
 
