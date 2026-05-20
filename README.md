@@ -1,78 +1,73 @@
 # 👋 Mason Dubelbeis
 
-Software engineer building APIs and application backends with Java, Spring Boot, SQL, Docker, and RESTful architecture.
+Software engineer focused on building practical, reliable applications that solve real problems.
 
-I focus on creating production-style backend systems with clean architecture, secure APIs, relational data modeling, validation, testing, and maintainable service-layer logic. I also have working React and TypeScript experience, which helps me collaborate across the full application stack when needed.
+I enjoy working across the stack — APIs, databases, frontend interfaces, authentication, testing, documentation, and deployment. My current strongest experience is with Java, Spring Boot, SQL, React, TypeScript, and Docker, but I care more about choosing the right tool for the job than locking myself into one stack.
 
 ---
 
-## 🚀 Current Stack
+## 🛠️ Tech I Work With
 
-**Backend:** Java, Spring Boot, Spring Security, REST APIs, JPA / Hibernate, PostgreSQL, MySQL  
-**Testing:** JUnit, Mockito, Testcontainers  
-**Tools:** Docker, Git, GitHub, Postman  
-**Frontend Exposure:** React, TypeScript, React Query, React Router, Axios, Tailwind CSS
+**Languages:** Java, TypeScript, JavaScript, SQL, Python  
+**Backend & APIs:** Spring Boot, REST APIs, Authentication, Validation, Service-Layer Architecture  
+**Frontend:** React, TypeScript, Tailwind CSS, React Router, React Query  
+**Databases:** PostgreSQL, MySQL  
+**Testing & Tools:** JUnit, Mockito, Testcontainers, Docker, Git, GitHub, Postman, Linux  
 
 ---
 
 ## 📌 Featured Projects
 
-### ClientHub — CRM Backend/API + Supporting Frontend
+### ClientHub
+(live demo)[https://clienthub-frontend-sigma.vercel.app/login]
 
-Production-style CRM application built with Java, Spring Boot, React, TypeScript, PostgreSQL, and Docker.
+Full-stack CRM application for managing clients, activities, authentication, and user-owned data.
 
-- Built JWT-based authentication and authorization for secure user access
-- Implemented client management, activity tracking, and ownership-based data access
-- Designed REST API endpoints using DTOs, validation, and layered backend architecture
-- Applied service-layer business logic to enforce user-specific data access rules
-- Used React Query and TypeScript on the frontend to consume and manage backend API data
+- Built secure backend APIs with authentication, authorization, validation, and relational data modeling
+- Developed a React/TypeScript frontend connected to the backend API
+- Used PostgreSQL, Docker, and layered application architecture
+- Focused on clean project structure, maintainability, and deployment readiness
 
 ### Order Management API
 
-Spring Boot backend project focused on clean API design, layered architecture, validation, and SQL-backed persistence.
+Backend API for managing users, products, orders, inventory, and checkout workflows.
 
-- Built CRUD workflows with controller, service, and repository layers
-- Implemented service-layer business logic and request validation
-- Modeled relational data using JPA / Hibernate
-- Added structured exception handling for cleaner API responses
-- Organized the codebase for maintainability and future feature expansion
+- Built RESTful CRUD workflows with service-layer business logic
+- Modeled relational data and transactional behavior
+- Added validation, exception handling, and automated testing
 
 ### Vacation Booking API
 
-Backend services for a travel booking application managing customers, carts, vacations, excursions, and checkout workflows.
+Backend services for a travel booking application with customers, carts, vacations, excursions, and checkout.
 
-- Modeled relational entities and relationships with JPA / Hibernate
-- Implemented checkout and purchase workflows using transactional service logic
-- Used MySQL-backed persistence for application data
-- Built backend functionality to support a full-stack travel booking system
-- Completed as an academic project with independent backend implementation
+- Designed relational entities and checkout workflows
+- Implemented transactional service logic and database-backed persistence
+- Built as part of a full-stack application architecture
 
 ### Portfolio Website
+(visit)[http://www.masondubelbeis.com]
+Personal portfolio site showcasing projects, background, technical skills, and contact information.
 
-Personal portfolio built with React, TypeScript, and Tailwind CSS to showcase projects, technical skills, and professional background.
-
-- Built a responsive single-page portfolio for recruiters and hiring managers
-- Used component-based architecture for maintainable UI structure
-- Presented projects, technical skills, background, and contact information clearly
-- Designed to align my portfolio, resume, LinkedIn, and GitHub presence
+- Built with React, TypeScript, and Tailwind CSS
+- Designed to clearly present my work to recruiters, hiring managers, and technical reviewers
 
 ---
 
 ## 🧠 What I Bring
 
-- Strong foundation in backend API design and relational data modeling
-- Experience building secure, authenticated applications with Spring Boot
-- Practical understanding of layered architecture, DTOs, validation, testing, and deployment readiness
-- Ability to work with frontend code when needed while keeping a backend-first focus
-- Background in leadership, operations, enterprise IT, and technical problem-solving
+- Strong problem-solving and troubleshooting mindset
+- Experience building APIs, databases, user workflows, and full-stack features
+- Ability to learn new tools quickly and apply them practically
+- Background in federal IT, documentation, reporting, stakeholder support, and enterprise workflows
+- U.S. Navy leadership experience in high-accountability, mission-critical environments
 
 ---
 
 ## 🔧 Current Focus
 
-- Building backend-focused applications with Java, Spring Boot, REST APIs, SQL, Docker, and secure authentication
-- Strengthening API design, relational data modeling, service-layer architecture, testing, and deployment-ready backend development
-- Positioning for junior software engineer, backend developer, Java developer, application support, and software support roles
+- Building deployed, portfolio-ready applications
+- Strengthening full-stack development, API design, testing, and production-readiness
+- Growing as a software engineer who can adapt to the tool, team, and problem
 
 ---
 
