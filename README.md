@@ -1,8 +1,8 @@
 # 👋 Mason Dubelbeis
 
-Software engineer focused on building full-stack web applications with JavaScript, React, Node.js, Express, APIs, databases, and practical deployment-ready architecture.
+Software engineer focused on building practical, reliable web applications across the stack.
 
-I enjoy building useful software across the stack — frontend interfaces, backend APIs, authentication, database models, testing, documentation, and deployment. My current focus is full-stack JavaScript, while my Java/Spring Boot background gives me a strong foundation in backend architecture, service-layer design, and production-style API development.
+I enjoy turning ideas into working software — from frontend interfaces and backend APIs to authentication, databases, testing, documentation, and deployment. My current focus is full-stack JavaScript, supported by a strong Java/Spring Boot backend foundation.
 
 ---
 
