@@ -1,25 +1,26 @@
 # 👋 Mason Dubelbeis
 
-Software engineer focused on building practical, reliable applications that solve real problems.
+Software engineer focused on building full-stack web applications with JavaScript, React, Node.js, Express, APIs, databases, and practical deployment-ready architecture.
 
-I enjoy working across the stack — APIs, databases, frontend interfaces, authentication, testing, documentation, and deployment. My current strongest experience is with Java, Spring Boot, SQL, React, TypeScript, and Docker, but I care more about choosing the right tool for the job than locking myself into one stack.
+I enjoy building useful software across the stack — frontend interfaces, backend APIs, authentication, database models, testing, documentation, and deployment. My current focus is full-stack JavaScript, while my Java/Spring Boot background gives me a strong foundation in backend architecture, service-layer design, and production-style API development.
 
 ---
 
 ## 🛠️ Tech I Work With
 
-**Languages:** Java, TypeScript, JavaScript, SQL, Python  
-**Backend & APIs:** Spring Boot, REST APIs, Authentication, Validation, Service-Layer Architecture  
-**Frontend:** React, TypeScript, Tailwind CSS, React Router, React Query  
-**Databases:** PostgreSQL, MySQL  
-**Testing & Tools:** JUnit, Mockito, Testcontainers, Docker, Git, GitHub, Postman, Linux  
+**Languages:** JavaScript, TypeScript, Java, SQL, Python  
+**Frontend:** React, Vite, Tailwind CSS, React Router, React Query, Axios  
+**Backend & APIs:** Node.js, Express, Spring Boot, REST APIs, Authentication, Validation, Middleware, Service-Layer Architecture  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Testing:** Vitest, React Testing Library, Supertest, JUnit, Mockito  
+**Tools:** Docker, Git, GitHub, Postman, Linux, npm  
 
 ---
 
 ## 📌 Featured Projects
 
 ### ClientHub
-Live Demo: [live demo](https://clienthub-frontend-sigma.vercel.app/login)
+Live Demo: [ClientHub](https://clienthub-frontend-sigma.vercel.app/login)
 
 Full-stack CRM application for managing clients, activities, authentication, and user-owned data.
 
