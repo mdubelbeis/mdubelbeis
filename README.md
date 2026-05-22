@@ -32,8 +32,8 @@ Focus areas:
 - Deployment-ready project structure
 
 Links:
-- Repository: https://github.com/mdubelbeis/bug-board
-- Project Board: https://github.com/users/mdubelbeis/projects/6/views/1
+- [Repository:](https://github.com/mdubelbeis/bug-board)
+- [Project Board:](https://github.com/users/mdubelbeis/projects/6/views/1)
 
 ---
 ## 📌 Featured Projects
