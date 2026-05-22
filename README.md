@@ -17,7 +17,7 @@ I enjoy turning ideas into working software — from frontend interfaces and bac
 
 ---
 
-## Current Work
+## 🚧 Current Work
 
 ### Bug-Board — Full-Stack Bug Tracking App
 
