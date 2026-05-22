@@ -17,6 +17,25 @@ I enjoy turning ideas into working software — from frontend interfaces and bac
 
 ---
 
+## Current Work
+
+### Bug-Board — Full-Stack Bug Tracking App
+
+Currently building a full-stack bug tracking application with React, Express, MongoDB, and Mongoose.
+
+Focus areas:
+- REST API design
+- MongoDB/Mongoose data modeling
+- Error handling
+- Authentication and authorization
+- Full-stack React integration
+- Deployment-ready project structure
+
+Links:
+- Repository: https://github.com/mdubelbeis/bug-board
+- Project Board: https://github.com/users/mdubelbeis/projects/6/views/1
+
+---
 ## 📌 Featured Projects
 
 ### ClientHub
