@@ -35,10 +35,6 @@ Links:
 - [Repository](https://github.com/mdubelbeis/bug-board)
 - [Project Board](https://github.com/users/mdubelbeis/projects/6/views/1)
 
-Documentation
-- [API Flow](./docs/api-flow.md)
-- [Error Handling Notes](./docs/error-handling.md)
-
 ---
 ## 📌 Featured Projects
 
