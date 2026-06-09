@@ -35,7 +35,24 @@ Links:
 - [Repository](https://github.com/mdubelbeis/bug-board)
 - [Project Board](https://github.com/users/mdubelbeis/projects/6/views/1)
 
+### Dubex — JavaScript/TypeScript CLI Code Generation Toolkit
+
+Currently building a Node.js CLI toolkit that generates repetitive JavaScript and TypeScript project code, including class accessors and Express/Mongoose resource boilerplate.
+
+Focus areas:
+- CLI design with Commander
+- TypeScript project architecture
+- File system automation
+- Code generation workflows
+- Express/Mongoose resource scaffolding
+- Config-driven resource generation
+- Developer tooling and productivity
+
+Links:
+- [Repository](https://github.com/mdubelbeis/dubex)
+
 ---
+
 ## 📌 Featured Projects
 
 ### ClientHub
