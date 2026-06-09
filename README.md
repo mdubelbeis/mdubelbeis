@@ -19,7 +19,7 @@ I enjoy turning ideas into working software — from frontend interfaces and bac
 
 ## 🚧 Current Work
 
-### Bug-Board — Full-Stack Bug Tracking App
+### 🐞 Bug-Board — Full-Stack Bug Tracking App
 
 Currently building a full-stack bug tracking application with React, Express, MongoDB, and Mongoose.
 
@@ -35,7 +35,7 @@ Links:
 - [Repository](https://github.com/mdubelbeis/bug-board)
 - [Project Board](https://github.com/users/mdubelbeis/projects/6/views/1)
 
-### Dubex — JavaScript/TypeScript CLI Code Generation Toolkit
+###  🛠️ Dubex — JavaScript/TypeScript CLI Code Generation Toolkit
 
 Currently building a Node.js CLI toolkit that generates repetitive JavaScript and TypeScript project code, including class accessors and Express/Mongoose resource boilerplate.
 
