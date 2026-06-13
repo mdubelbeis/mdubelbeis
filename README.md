@@ -21,19 +21,27 @@ I enjoy turning ideas into working software — from frontend interfaces and bac
 
 ### 🐞 Bug-Board — Full-Stack Bug Tracking App
 
-Currently building a full-stack bug tracking application with React, Express, MongoDB, and Mongoose.
+Currently building a full-stack bug tracking application with React, Express, MongoDB, and Mongoose. Bug-Board is designed as a production-style project for managing software projects, tracking bugs, assigning priority and severity, updating issue status, and organizing discussion through comments.
 
-Focus areas:
+The backend API is deployed and includes interactive API documentation for testing and exploring available endpoints.
+
+**Focus areas:**
+
 - REST API design
 - MongoDB/Mongoose data modeling
-- Error handling
+- Express middleware and error handling
 - Authentication and authorization
 - Full-stack React integration
+- API documentation with Swagger/OpenAPI
 - Deployment-ready project structure
 
-Links:
+**Links:**
+
 - [Repository](https://github.com/mdubelbeis/bug-board)
-- [Project Board](https://github.com/users/mdubelbeis/projects/6/views/1)
+- [Project Board](https://github.com/users/mdubelbeis/projects/6)
+- [Deployed API](https://bug-board.onrender.com)
+- [API Health Check](https://bug-board.onrender.com/api/v1/health)
+- [API Docs](https://documenter.getpostman.com/view/21197590/2sBXwsMq59)
 
 ###  🛠️ Dubex — JavaScript/TypeScript CLI Code Generation Toolkit
 
