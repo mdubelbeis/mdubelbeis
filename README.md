@@ -8,12 +8,13 @@ I enjoy turning ideas into working software — from frontend interfaces and bac
 
 ## 🛠️ Tech I Work With
 
-**Languages:** JavaScript, TypeScript, Java, SQL, Python  
-**Frontend:** React, Vite, Tailwind CSS, React Router, React Query, Axios  
-**Backend & APIs:** Node.js, Express, Spring Boot, REST APIs, Authentication, Validation, Middleware, Service-Layer Architecture  
-**Databases:** MongoDB, PostgreSQL
-**Testing:** Vitest, React Testing Library, JUnit, Mockito  
-**Tools:** Docker, Git, GitHub, Postman, Linux, npm, pnpm 
+**Primary Stack:** JavaScript, TypeScript, React, Astro.js, Node.js, Express  
+**Frontend:** React, Astro.js, Vite, Tailwind CSS, React Router, React Query, Axios, HTML, CSS  
+**Backend & APIs:** Node.js, Express, REST APIs, JWT, Authentication, Authorization, Validation, Middleware, Service-Layer Architecture  
+**Databases & ORMs:** MongoDB, Mongoose, PostgreSQL, MySQL  
+**Testing:** Vitest, React Testing Library  
+**Tools & Platforms:** Docker, Git, GitHub, Postman, Swagger/OpenAPI, Linux, npm, pnpm, Render, Vercel, MongoDB Atlas  
+**Additional Backend Experience:** Java, Spring Boot, Spring Security, Spring Data JPA, JUnit, Mockito
 
 ---
 
