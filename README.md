@@ -36,7 +36,6 @@ Focus areas:
 Links:
 - [Repository](https://github.com/mdubelbeis/dubex)
 
----
 
 ### 📦 StorageSnap — Full-Stack Inventory Tracking App
 
