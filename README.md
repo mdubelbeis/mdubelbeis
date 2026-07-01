@@ -42,10 +42,10 @@ Links:
 
 ### ClientHub
 
-Live Demo: [ClientHub](https://clienthub-frontend-sigma.vercel.app/login)
-Backend Repository: [ClientHub API](https://github.com/mdubelbeis/clienthub-api)
-Frontend Repository: [ClientHub Client](https://github.com/mdubelbeis/clienthub-frontend)
-API Docs: [ClientHub  API Docs](https://clienthub-api.onrender.com/swagger-ui/index.html)
+Live Demo: [ClientHub Demo](https://clienthub-frontend-sigma.vercel.app/login)
+Backend Repository: [ClientHub API Repository](https://github.com/mdubelbeis/clienthub-api)
+Frontend Repository: [ClientHub Client Repository](https://github.com/mdubelbeis/clienthub-frontend)
+API Docs: [ClientHub API Docs](https://clienthub-api.onrender.com/swagger-ui/index.html)
 
 Full-stack CRM application for managing clients, activities, authentication, and user-owned data.
 
@@ -58,8 +58,8 @@ Full-stack CRM application for managing clients, activities, authentication, and
 
 ### Bug-Board
 
-Live Demo: [Bug-Board](https://bug-board-gilt.vercel.app/login)  
-Repository: [Bug-Board](https://github.com/mdubelbeis/bug-board)  
+Live Demo: [Bug-Board Demo](https://bug-board-gilt.vercel.app/login)  
+Repository: [Bug-Board Repository](https://github.com/mdubelbeis/bug-board)  
 API Docs: [Bug-Board API Docs](https://documenter.getpostman.com/view/21197590/2sBXwsMq59)
 
 Full-stack bug tracking application for managing projects, bugs, priorities, statuses, comments, and authenticated project workflows.
