@@ -42,9 +42,9 @@ Links:
 
 ### ClientHub
 
-Live Demo: [ClientHub Demo](https://clienthub-frontend-sigma.vercel.app/login)
-Backend Repository: [ClientHub API Repository](https://github.com/mdubelbeis/clienthub-api)
-Frontend Repository: [ClientHub Client Repository](https://github.com/mdubelbeis/clienthub-frontend)
+Live Demo: [ClientHub Demo](https://clienthub-frontend-sigma.vercel.app/login)  
+Backend Repository: [ClientHub API Repository](https://github.com/mdubelbeis/clienthub-api)  
+Frontend Repository: [ClientHub Client Repository](https://github.com/mdubelbeis/clienthub-frontend)  
 API Docs: [ClientHub API Docs](https://clienthub-api.onrender.com/swagger-ui/index.html)
 
 Full-stack CRM application for managing clients, activities, authentication, and user-owned data.
