@@ -38,6 +38,14 @@ Links:
 
 ---
 
+### 📦 StorageSnap — Full-Stack Inventory Tracking App
+
+Planning a full-stack inventory tracking application for organizing storage bins using photos, QR codes, searchable item lists, and mobile-friendly workflows.
+
+StorageSnap is intended to help users quickly identify what is inside storage bins without opening each container, with future support for AI-assisted item detection from uploaded images.
+
+---
+
 ## 📌 Featured Projects
 
 ### ClientHub
