@@ -20,30 +20,6 @@ I enjoy turning ideas into working software — from frontend interfaces and bac
 
 ## 🚧 Current Work
 
-### 🐞 Bug-Board — Full-Stack Bug Tracking App
-
-Currently building a full-stack bug tracking application with React, Express, MongoDB, and Mongoose. Bug-Board is designed as a production-style project for managing software projects, tracking bugs, assigning priority and severity, updating issue status, and organizing discussion through comments.
-
-The backend API is deployed and includes interactive API documentation for testing and exploring available endpoints.
-
-**Focus areas:**
-
-- REST API design
-- MongoDB/Mongoose data modeling
-- Express middleware and error handling
-- Authentication and authorization
-- Full-stack React integration
-- API documentation with Swagger/OpenAPI
-- Deployment-ready project structure
-
-**Links:**
-
-- [Repository](https://github.com/mdubelbeis/bug-board)
-- [Project Board](https://github.com/users/mdubelbeis/projects/6)
-- [Deployed API](https://bug-board.onrender.com)
-- [API Health Check](https://bug-board.onrender.com/api/v1/health)
-- [API Docs](https://documenter.getpostman.com/view/21197590/2sBXwsMq59)
-
 ###  🛠️ Dubex — JavaScript/TypeScript CLI Code Generation Toolkit
 
 Currently building a Node.js CLI toolkit that generates repetitive JavaScript and TypeScript project code, including class accessors and Express/Mongoose resource boilerplate.
@@ -65,7 +41,11 @@ Links:
 ## 📌 Featured Projects
 
 ### ClientHub
+
 Live Demo: [ClientHub](https://clienthub-frontend-sigma.vercel.app/login)
+Backend Repository: [ClientHub API](https://github.com/mdubelbeis/clienthub-api)
+Frontend Repository: [ClientHub Client](https://github.com/mdubelbeis/clienthub-frontend)
+API Docs: [ClientHub  API Docs](https://clienthub-api.onrender.com/swagger-ui/index.html)
 
 Full-stack CRM application for managing clients, activities, authentication, and user-owned data.
 
@@ -74,21 +54,44 @@ Full-stack CRM application for managing clients, activities, authentication, and
 - Used PostgreSQL, Docker, and layered application architecture
 - Focused on clean project structure, maintainability, and deployment readiness
 
+---
+
+### Bug-Board
+
+Live Demo: [Bug-Board](https://bug-board-gilt.vercel.app/login)  
+Repository: [Bug-Board](https://github.com/mdubelbeis/bug-board)  
+API Docs: [Bug-Board API Docs](https://documenter.getpostman.com/view/21197590/2sBXwsMq59)
+
+Full-stack bug tracking application for managing projects, bugs, priorities, statuses, comments, and authenticated project workflows.
+
+- Built a deployed full-stack application with React, TypeScript, Express, MongoDB, and Mongoose
+- Implemented authentication, protected routes, API workflows, and project-based bug management
+- Designed a REST API with middleware, validation, centralized error handling, and documentation
+- Focused on production-style full-stack architecture, deployment, and practical issue-tracking workflows
+
+---
+
+### Dubex
+
+Repository: [Dubex](https://github.com/mdubelbeis/dubex)
+
+JavaScript/TypeScript CLI toolkit for generating repetitive project code and developer workflow automation.
+
+- Built command-line workflows for class accessor generation and Express/Mongoose resource scaffolding
+- Used Node.js, TypeScript, Commander, and file system utilities
+- Focused on developer tooling, code generation, and npm-ready package structure
+
+---
+
 ### Order Management API
+
+Repository: [Order Management API](https://github.com/mdubelbeis/order-management-api)
 
 Backend API for managing users, products, orders, inventory, and checkout workflows.
 
 - Built RESTful CRUD workflows with service-layer business logic
 - Modeled relational data and transactional behavior
 - Added validation, exception handling, and automated testing
-
-### Vacation Booking API
-
-Backend services for a travel booking application with customers, carts, vacations, excursions, and checkout.
-
-- Designed relational entities and checkout workflows
-- Implemented transactional service logic and database-backed persistence
-- Built as part of a full-stack application architecture
 
 ---
 
